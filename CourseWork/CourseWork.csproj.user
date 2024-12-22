@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="AddWin\AddDoctors.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AddWin\AddHospital.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AddWin\AddLab.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AddWin\AddPatient.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AddWin\AddPolyclinic.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AddWin\AddStaffMed.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\Doctors.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\HospitalsPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\LabPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\MainPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\PatientPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\PoliclinicsPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\StaffMed.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="WindowInfo.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="AddWin\AddDoctors.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AddWin\AddHospital.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AddWin\AddLab.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AddWin\AddPatient.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AddWin\AddPolyclinic.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AddWin\AddStaffMed.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\Doctors.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\HospitalsPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\LabPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\MainPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\PatientPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\PoliclinicsPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\StaffMed.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="WindowInfo.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

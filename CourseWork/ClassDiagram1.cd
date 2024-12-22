@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CourseWork.Doctor">
+    <Position X="16.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABABAgAAAAAAAAIAAEIQARAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Doctor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CourseWork.Hospital">
+    <Position X="10.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAgAAAAQAAAAAAAAAAEAAAAAAAAAQAAE=</HashCode>
+      <FileName>Hospital.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CourseWork.Building">
+    <Position X="10.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAACAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Hospital.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CourseWork.Department">
+    <Position X="8.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQCAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Hospital.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CourseWork.Ward">
+    <Position X="8.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAABAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Hospital.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CourseWork.Laboratory">
+    <Position X="3.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAgAAAAAAAAQAAAAAAEAAAAAABAAAAAA=</HashCode>
+      <FileName>Laboratory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CourseWork.MedicalInstitution">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQACAAIAAAAAAAQAAGCAAEAABgAAAAAAACA=</HashCode>
+      <FileName>MedicalInstitution.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CourseWork.Patient">
+    <Position X="12.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAACAAAAAAAAIAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Patient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CourseWork.Polyclinic">
+    <Position X="5.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAACAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Polyclinic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CourseWork.Staff">
+    <Position X="14.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Staff.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CourseWork.SupportStaff">
+    <Position X="14.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SupportStaff.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="CourseWork.DoctorDegree">
+    <Position X="18.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAABAAQAAAAAAAEAAAA=</HashCode>
+      <FileName>Doctor.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="CourseWork.HospitalType">
+    <Position X="18.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Doctor.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

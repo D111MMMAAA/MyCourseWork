@@ -1,0 +1,270 @@
+C:\Users\serge\source\repos\CourseWork\CourseWork\bin\Debug\net8.0-windows\CourseWork.exe
+C:\Users\serge\source\repos\CourseWork\CourseWork\bin\Debug\net8.0-windows\CourseWork.deps.json
+C:\Users\serge\source\repos\CourseWork\CourseWork\bin\Debug\net8.0-windows\CourseWork.runtimeconfig.json
+C:\Users\serge\source\repos\CourseWork\CourseWork\bin\Debug\net8.0-windows\CourseWork.dll
+C:\Users\serge\source\repos\CourseWork\CourseWork\bin\Debug\net8.0-windows\CourseWork.pdb
+C:\Users\serge\source\repos\CourseWork\CourseWork\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\serge\source\repos\CourseWork\CourseWork\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\serge\source\repos\CourseWork\CourseWork\obj\Debug\net8.0-windows\CourseWork_MarkupCompile.cache
+C:\Users\serge\source\repos\CourseWork\CourseWork\obj\Debug\net8.0-windows\CourseWork_MarkupCompile.lref
+C:\Users\serge\source\repos\CourseWork\CourseWork\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\serge\source\repos\CourseWork\CourseWork\obj\Debug\net8.0-windows\CourseWork.g.resources
+C:\Users\serge\source\repos\CourseWork\CourseWork\obj\Debug\net8.0-windows\CourseWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serge\source\repos\CourseWork\CourseWork\obj\Debug\net8.0-windows\CourseWork.AssemblyInfoInputs.cache
+C:\Users\serge\source\repos\CourseWork\CourseWork\obj\Debug\net8.0-windows\CourseWork.AssemblyInfo.cs
+C:\Users\serge\source\repos\CourseWork\CourseWork\obj\Debug\net8.0-windows\CourseWork.csproj.CoreCompileInputs.cache
+C:\Users\serge\source\repos\CourseWork\CourseWork\obj\Debug\net8.0-windows\CourseWork.sourcelink.json
+C:\Users\serge\source\repos\CourseWork\CourseWork\obj\Debug\net8.0-windows\CourseWork.dll
+C:\Users\serge\source\repos\CourseWork\CourseWork\obj\Debug\net8.0-windows\refint\CourseWork.dll
+C:\Users\serge\source\repos\CourseWork\CourseWork\obj\Debug\net8.0-windows\CourseWork.pdb
+C:\Users\serge\source\repos\CourseWork\CourseWork\obj\Debug\net8.0-windows\CourseWork.genruntimeconfig.cache
+C:\Users\serge\source\repos\CourseWork\CourseWork\obj\Debug\net8.0-windows\ref\CourseWork.dll
+C:\Users\serge\source\repos\CourseWork\CourseWork\bin\Debug\net8.0-windows\HarfBuzzSharp.dll
+C:\Users\serge\source\repos\CourseWork\CourseWork\bin\Debug\net8.0-windows\OpenTK.Compute.dll
+C:\Users\serge\source\repos\CourseWork\CourseWork\bin\Debug\net8.0-windows\OpenTK.Core.dll
+C:\Users\serge\source\repos\CourseWork\CourseWork\bin\Debug\net8.0-windows\GLWpfControl.dll
+C:\Users\serge\source\repos\CourseWork\CourseWork\bin\Debug\net8.0-windows\OpenTK.Graphics.dll
+C:\Users\serge\source\repos\CourseWork\CourseWork\bin\Debug\net8.0-windows\OpenTK.Input.dll
+C:\Users\serge\source\repos\CourseWork\CourseWork\bin\Debug\net8.0-windows\OpenTK.Mathematics.dll
+C:\Users\serge\source\repos\CourseWork\CourseWork\bin\Debug\net8.0-windows\OpenTK.OpenAL.dll
+C:\Users\serge\source\repos\CourseWork\CourseWork\bin\Debug\net8.0-windows\OpenTK.Windowing.Common.dll
+C:\Users\serge\source\repos\CourseWork\CourseWork\bin\Debug\net8.0-windows\OpenTK.Windowing.Desktop.dll
+C:\Users\serge\source\repos\CourseWork\CourseWork\bin\Debug\net8.0-windows\OpenTK.Windowing.GraphicsLibraryFramework.dll
+C:\Users\serge\source\repos\CourseWork\CourseWork\bin\Debug\net8.0-windows\ScottPlot.dll
+C:\Users\serge\source\repos\CourseWork\CourseWork\bin\Debug\net8.0-windows\ScottPlot.WPF.dll
+C:\Users\serge\source\repos\CourseWork\CourseWork\bin\Debug\net8.0-windows\SkiaSharp.dll
+C:\Users\serge\source\repos\CourseWork\CourseWork\bin\Debug\net8.0-windows\SkiaSharp.HarfBuzz.dll
+C:\Users\serge\source\repos\CourseWork\CourseWork\bin\Debug\net8.0-windows\SkiaSharp.Views.Desktop.Common.dll
+C:\Users\serge\source\repos\CourseWork\CourseWork\bin\Debug\net8.0-windows\SkiaSharp.Views.WPF.dll
+C:\Users\serge\source\repos\CourseWork\CourseWork\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\serge\source\repos\CourseWork\CourseWork\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\serge\source\repos\CourseWork\CourseWork\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\serge\source\repos\CourseWork\CourseWork\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\serge\source\repos\CourseWork\CourseWork\bin\Debug\net8.0-windows\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\serge\source\repos\CourseWork\CourseWork\bin\Debug\net8.0-windows\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\serge\source\repos\CourseWork\CourseWork\bin\Debug\net8.0-windows\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\serge\source\repos\CourseWork\CourseWork\bin\Debug\net8.0-windows\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\serge\source\repos\CourseWork\CourseWork\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libglfw.so.3.3
+C:\Users\serge\source\repos\CourseWork\CourseWork\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libglfw.3.dylib
+C:\Users\serge\source\repos\CourseWork\CourseWork\bin\Debug\net8.0-windows\runtimes\win-x64\native\glfw3.dll
+C:\Users\serge\source\repos\CourseWork\CourseWork\bin\Debug\net8.0-windows\runtimes\win-x86\native\glfw3.dll
+C:\Users\serge\source\repos\CourseWork\CourseWork\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\serge\source\repos\CourseWork\CourseWork\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\serge\source\repos\CourseWork\CourseWork\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\serge\source\repos\CourseWork\CourseWork\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\serge\source\repos\CourseWork\CourseWork\bin\Debug\net8.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\serge\source\repos\CourseWork\CourseWork\bin\Debug\net8.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\serge\source\repos\CourseWork\CourseWork\bin\Debug\net8.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\serge\source\repos\CourseWork\CourseWork\bin\Debug\net8.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\serge\source\repos\CourseWork\CourseWork\obj\Debug\net8.0-windows\CourseWork.csproj.AssemblyReference.cache
+C:\Users\serge\source\repos\CourseWork\CourseWork\obj\Debug\net8.0-windows\CourseWork.csproj.Up2Date
+C:\Users\serge\source\repos\CourseWork\CourseWork\obj\Debug\net8.0-windows\Pages\Doctors.g.cs
+C:\Users\serge\source\repos\CourseWork\CourseWork\obj\Debug\net8.0-windows\Pages\MainPage.g.cs
+C:\Users\serge\source\repos\CourseWork\CourseWork\obj\Debug\net8.0-windows\Pages\Doctors.baml
+C:\Users\serge\source\repos\CourseWork\CourseWork\obj\Debug\net8.0-windows\Pages\MainPage.baml
+C:\Users\serge\source\repos\CourseWork\CourseWork\bin\Debug\net8.0-windows\AdvancedDataGridView.dll
+C:\Users\serge\source\repos\CourseWork\CourseWork\obj\Debug\net8.0-windows\Pages\StaffMed.g.cs
+C:\Users\serge\source\repos\CourseWork\CourseWork\obj\Debug\net8.0-windows\Pages\StaffMed.baml
+C:\Users\serge\source\repos\CourseWork\CourseWork\obj\Debug\net8.0-windows\Pages\PatientPage.g.cs
+C:\Users\serge\source\repos\CourseWork\CourseWork\obj\Debug\net8.0-windows\Pages\PatientPage.baml
+C:\Users\serge\source\repos\CourseWork\CourseWork\obj\Debug\net8.0-windows\Pages\PoliclinicsPage.g.cs
+C:\Users\serge\source\repos\CourseWork\CourseWork\obj\Debug\net8.0-windows\Pages\PoliclinicsPage.baml
+C:\Users\serge\source\repos\CourseWork\CourseWork\obj\Debug\net8.0-windows\AddWin\AddDoctors.g.cs
+C:\Users\serge\source\repos\CourseWork\CourseWork\obj\Debug\net8.0-windows\AddWin\AddHospital.g.cs
+C:\Users\serge\source\repos\CourseWork\CourseWork\obj\Debug\net8.0-windows\AddWin\AddDoctors.baml
+C:\Users\serge\source\repos\CourseWork\CourseWork\obj\Debug\net8.0-windows\AddWin\AddHospital.baml
+C:\Users\serge\source\repos\CourseWork\CourseWork\obj\Debug\net8.0-windows\AddWin\AddPolyclinic.g.cs
+C:\Users\serge\source\repos\CourseWork\CourseWork\obj\Debug\net8.0-windows\AddWin\AddPolyclinic.baml
+C:\Users\serge\source\repos\CourseWork\CourseWork\obj\Debug\net8.0-windows\AddWin\AddPatient.g.cs
+C:\Users\serge\source\repos\CourseWork\CourseWork\obj\Debug\net8.0-windows\AddWin\AddStaffMed.g.cs
+C:\Users\serge\source\repos\CourseWork\CourseWork\obj\Debug\net8.0-windows\AddWin\AddPatient.baml
+C:\Users\serge\source\repos\CourseWork\CourseWork\obj\Debug\net8.0-windows\AddWin\AddStaffMed.baml
+C:\Users\serge\source\repos\CourseWork\CourseWork\obj\Debug\net8.0-windows\AddWin\AddLab.g.cs
+C:\Users\serge\source\repos\CourseWork\CourseWork\obj\Debug\net8.0-windows\Pages\LabPage.g.cs
+C:\Users\serge\source\repos\CourseWork\CourseWork\obj\Debug\net8.0-windows\AddWin\AddLab.baml
+C:\Users\serge\source\repos\CourseWork\CourseWork\obj\Debug\net8.0-windows\Pages\LabPage.baml
+C:\Users\serge\source\repos\CourseWork\CourseWork\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\serge\source\repos\CourseWork\CourseWork\obj\Debug\net8.0-windows\Pages\HospitalsPage.g.cs
+C:\Users\serge\source\repos\CourseWork\CourseWork\obj\Debug\net8.0-windows\Pages\HospitalsPage.baml
+C:\Users\serge\source\repos\CourseWork\CourseWork\obj\Debug\net8.0-windows\WindowInfo.g.cs
+C:\Users\serge\source\repos\CourseWork\CourseWork\obj\Debug\net8.0-windows\WindowInfo.baml
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\bin\Debug\net8.0-windows\CourseWork.exe
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\bin\Debug\net8.0-windows\CourseWork.deps.json
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\bin\Debug\net8.0-windows\CourseWork.runtimeconfig.json
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\bin\Debug\net8.0-windows\CourseWork.dll
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\bin\Debug\net8.0-windows\CourseWork.pdb
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\bin\Debug\net8.0-windows\AdvancedDataGridView.dll
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\bin\Debug\net8.0-windows\HarfBuzzSharp.dll
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\bin\Debug\net8.0-windows\OpenTK.Compute.dll
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\bin\Debug\net8.0-windows\OpenTK.Core.dll
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\bin\Debug\net8.0-windows\GLWpfControl.dll
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\bin\Debug\net8.0-windows\OpenTK.Graphics.dll
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\bin\Debug\net8.0-windows\OpenTK.Input.dll
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\bin\Debug\net8.0-windows\OpenTK.Mathematics.dll
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\bin\Debug\net8.0-windows\OpenTK.OpenAL.dll
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\bin\Debug\net8.0-windows\OpenTK.Windowing.Common.dll
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\bin\Debug\net8.0-windows\OpenTK.Windowing.Desktop.dll
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\bin\Debug\net8.0-windows\OpenTK.Windowing.GraphicsLibraryFramework.dll
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\bin\Debug\net8.0-windows\ScottPlot.dll
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\bin\Debug\net8.0-windows\ScottPlot.WPF.dll
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\bin\Debug\net8.0-windows\SkiaSharp.dll
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\bin\Debug\net8.0-windows\SkiaSharp.HarfBuzz.dll
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\bin\Debug\net8.0-windows\SkiaSharp.Views.Desktop.Common.dll
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\bin\Debug\net8.0-windows\SkiaSharp.Views.WPF.dll
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\bin\Debug\net8.0-windows\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\bin\Debug\net8.0-windows\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\bin\Debug\net8.0-windows\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\bin\Debug\net8.0-windows\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libglfw.so.3.3
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libglfw.3.dylib
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\bin\Debug\net8.0-windows\runtimes\win-x64\native\glfw3.dll
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\bin\Debug\net8.0-windows\runtimes\win-x86\native\glfw3.dll
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\bin\Debug\net8.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\bin\Debug\net8.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\bin\Debug\net8.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\bin\Debug\net8.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\obj\Debug\net8.0-windows\CourseWork.csproj.AssemblyReference.cache
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\obj\Debug\net8.0-windows\AddWin\AddDoctors.g.cs
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\obj\Debug\net8.0-windows\AddWin\AddHospital.g.cs
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\obj\Debug\net8.0-windows\AddWin\AddLab.g.cs
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\obj\Debug\net8.0-windows\AddWin\AddPatient.g.cs
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\obj\Debug\net8.0-windows\AddWin\AddPolyclinic.g.cs
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\obj\Debug\net8.0-windows\AddWin\AddStaffMed.g.cs
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\obj\Debug\net8.0-windows\Pages\Doctors.g.cs
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\obj\Debug\net8.0-windows\Pages\HospitalsPage.g.cs
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\obj\Debug\net8.0-windows\Pages\LabPage.g.cs
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\obj\Debug\net8.0-windows\Pages\MainPage.g.cs
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\obj\Debug\net8.0-windows\Pages\PatientPage.g.cs
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\obj\Debug\net8.0-windows\Pages\PoliclinicsPage.g.cs
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\obj\Debug\net8.0-windows\Pages\StaffMed.g.cs
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\obj\Debug\net8.0-windows\WindowInfo.g.cs
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\obj\Debug\net8.0-windows\CourseWork_MarkupCompile.cache
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\obj\Debug\net8.0-windows\CourseWork_MarkupCompile.lref
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\obj\Debug\net8.0-windows\AddWin\AddDoctors.baml
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\obj\Debug\net8.0-windows\AddWin\AddHospital.baml
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\obj\Debug\net8.0-windows\AddWin\AddLab.baml
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\obj\Debug\net8.0-windows\AddWin\AddPatient.baml
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\obj\Debug\net8.0-windows\AddWin\AddPolyclinic.baml
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\obj\Debug\net8.0-windows\AddWin\AddStaffMed.baml
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\obj\Debug\net8.0-windows\Pages\Doctors.baml
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\obj\Debug\net8.0-windows\Pages\HospitalsPage.baml
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\obj\Debug\net8.0-windows\Pages\LabPage.baml
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\obj\Debug\net8.0-windows\Pages\MainPage.baml
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\obj\Debug\net8.0-windows\Pages\PatientPage.baml
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\obj\Debug\net8.0-windows\Pages\PoliclinicsPage.baml
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\obj\Debug\net8.0-windows\Pages\StaffMed.baml
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\obj\Debug\net8.0-windows\WindowInfo.baml
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\obj\Debug\net8.0-windows\CourseWork.g.resources
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\obj\Debug\net8.0-windows\CourseWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\obj\Debug\net8.0-windows\CourseWork.AssemblyInfoInputs.cache
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\obj\Debug\net8.0-windows\CourseWork.AssemblyInfo.cs
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\obj\Debug\net8.0-windows\CourseWork.csproj.CoreCompileInputs.cache
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\obj\Debug\net8.0-windows\CourseWork.sourcelink.json
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\obj\Debug\net8.0-windows\CourseWork.csproj.Up2Date
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\obj\Debug\net8.0-windows\CourseWork.dll
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\obj\Debug\net8.0-windows\refint\CourseWork.dll
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\obj\Debug\net8.0-windows\CourseWork.pdb
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\obj\Debug\net8.0-windows\CourseWork.genruntimeconfig.cache
+C:\Users\Semen\Downloads\Telegram Desktop\CourseWork (5)\CourseWork\CourseWork\obj\Debug\net8.0-windows\ref\CourseWork.dll
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\bin\Debug\net8.0-windows\CourseWork.exe
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\bin\Debug\net8.0-windows\CourseWork.deps.json
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\bin\Debug\net8.0-windows\CourseWork.runtimeconfig.json
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\bin\Debug\net8.0-windows\CourseWork.dll
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\bin\Debug\net8.0-windows\CourseWork.pdb
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\bin\Debug\net8.0-windows\AdvancedDataGridView.dll
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\bin\Debug\net8.0-windows\HarfBuzzSharp.dll
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\bin\Debug\net8.0-windows\OpenTK.Compute.dll
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\bin\Debug\net8.0-windows\OpenTK.Core.dll
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\bin\Debug\net8.0-windows\GLWpfControl.dll
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\bin\Debug\net8.0-windows\OpenTK.Graphics.dll
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\bin\Debug\net8.0-windows\OpenTK.Input.dll
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\bin\Debug\net8.0-windows\OpenTK.Mathematics.dll
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\bin\Debug\net8.0-windows\OpenTK.OpenAL.dll
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\bin\Debug\net8.0-windows\OpenTK.Windowing.Common.dll
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\bin\Debug\net8.0-windows\OpenTK.Windowing.Desktop.dll
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\bin\Debug\net8.0-windows\OpenTK.Windowing.GraphicsLibraryFramework.dll
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\bin\Debug\net8.0-windows\ScottPlot.dll
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\bin\Debug\net8.0-windows\ScottPlot.WPF.dll
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\bin\Debug\net8.0-windows\SkiaSharp.dll
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\bin\Debug\net8.0-windows\SkiaSharp.HarfBuzz.dll
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\bin\Debug\net8.0-windows\SkiaSharp.Views.Desktop.Common.dll
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\bin\Debug\net8.0-windows\SkiaSharp.Views.WPF.dll
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\bin\Debug\net8.0-windows\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\bin\Debug\net8.0-windows\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\bin\Debug\net8.0-windows\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\bin\Debug\net8.0-windows\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libglfw.so.3.3
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libglfw.3.dylib
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\bin\Debug\net8.0-windows\runtimes\win-x64\native\glfw3.dll
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\bin\Debug\net8.0-windows\runtimes\win-x86\native\glfw3.dll
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\bin\Debug\net8.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\bin\Debug\net8.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\bin\Debug\net8.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\bin\Debug\net8.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\obj\Debug\net8.0-windows\CourseWork.csproj.AssemblyReference.cache
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\obj\Debug\net8.0-windows\AddWin\AddDoctors.g.cs
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\obj\Debug\net8.0-windows\AddWin\AddHospital.g.cs
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\obj\Debug\net8.0-windows\AddWin\AddLab.g.cs
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\obj\Debug\net8.0-windows\AddWin\AddPatient.g.cs
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\obj\Debug\net8.0-windows\AddWin\AddPolyclinic.g.cs
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\obj\Debug\net8.0-windows\AddWin\AddStaffMed.g.cs
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\obj\Debug\net8.0-windows\Pages\Doctors.g.cs
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\obj\Debug\net8.0-windows\Pages\HospitalsPage.g.cs
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\obj\Debug\net8.0-windows\Pages\LabPage.g.cs
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\obj\Debug\net8.0-windows\Pages\MainPage.g.cs
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\obj\Debug\net8.0-windows\Pages\PatientPage.g.cs
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\obj\Debug\net8.0-windows\Pages\PoliclinicsPage.g.cs
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\obj\Debug\net8.0-windows\Pages\StaffMed.g.cs
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\obj\Debug\net8.0-windows\WindowInfo.g.cs
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\obj\Debug\net8.0-windows\CourseWork_MarkupCompile.cache
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\obj\Debug\net8.0-windows\CourseWork_MarkupCompile.lref
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\obj\Debug\net8.0-windows\AddWin\AddDoctors.baml
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\obj\Debug\net8.0-windows\AddWin\AddHospital.baml
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\obj\Debug\net8.0-windows\AddWin\AddLab.baml
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\obj\Debug\net8.0-windows\AddWin\AddPatient.baml
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\obj\Debug\net8.0-windows\AddWin\AddPolyclinic.baml
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\obj\Debug\net8.0-windows\AddWin\AddStaffMed.baml
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\obj\Debug\net8.0-windows\Pages\Doctors.baml
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\obj\Debug\net8.0-windows\Pages\HospitalsPage.baml
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\obj\Debug\net8.0-windows\Pages\LabPage.baml
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\obj\Debug\net8.0-windows\Pages\MainPage.baml
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\obj\Debug\net8.0-windows\Pages\PatientPage.baml
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\obj\Debug\net8.0-windows\Pages\PoliclinicsPage.baml
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\obj\Debug\net8.0-windows\Pages\StaffMed.baml
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\obj\Debug\net8.0-windows\WindowInfo.baml
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\obj\Debug\net8.0-windows\CourseWork.g.resources
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\obj\Debug\net8.0-windows\CourseWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\obj\Debug\net8.0-windows\CourseWork.AssemblyInfoInputs.cache
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\obj\Debug\net8.0-windows\CourseWork.AssemblyInfo.cs
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\obj\Debug\net8.0-windows\CourseWork.csproj.CoreCompileInputs.cache
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\obj\Debug\net8.0-windows\CourseWork.sourcelink.json
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\obj\Debug\net8.0-windows\CourseWork.csproj.Up2Date
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\obj\Debug\net8.0-windows\CourseWork.dll
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\obj\Debug\net8.0-windows\refint\CourseWork.dll
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\obj\Debug\net8.0-windows\CourseWork.pdb
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\obj\Debug\net8.0-windows\CourseWork.genruntimeconfig.cache
+C:\Users\shipu\Desktop\курсовая 5\CourseWork\CourseWork\obj\Debug\net8.0-windows\ref\CourseWork.dll

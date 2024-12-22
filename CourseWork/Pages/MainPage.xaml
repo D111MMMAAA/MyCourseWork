@@ -1,0 +1,22 @@
+﻿<Page x:Class="CourseWork.Pages.MainPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:CourseWork.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="MainPage" ShowsNavigationUI="False">
+    <Grid Background="Aqua">
+        <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="22">
+            Программа "Медицинские организации города"
+            <LineBreak/>
+            Разработана студентом Шипуновым Д.Н. группы АП - 326 
+            <LineBreak/>
+            По дисциплине Программирование
+            <LineBreak/>
+            Преподаватель Эстрайх И.В.
+            <LineBreak/>
+        </TextBlock>
+    </Grid>
+</Page>

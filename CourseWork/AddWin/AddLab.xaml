@@ -1,0 +1,30 @@
+﻿<Window x:Class="CourseWork.AddWin.AddLab"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CourseWork"
+        mc:Ignorable="d"
+        Title="AddLab" Height="465" Width="400">
+    <Window.Resources>
+        <Style TargetType="TextBlock">
+            <Setter Property="Margin" Value="5"/>
+            <Setter Property="FontSize" Value="11"/>
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+        </Style>
+    </Window.Resources>
+    <Grid Background="WhiteSmoke">
+        <TextBlock HorizontalAlignment="Center" TextAlignment="Center">Добавление лаборатории<LineBreak/></TextBlock>
+        <StackPanel Grid.Column="0" VerticalAlignment="Center">
+            <TextBlock Text="Имя"></TextBlock>
+            <TextBox x:Name="NameText"/>
+            <TextBlock Text="Профили"></TextBlock>
+            <TextBox x:Name="ProfText"/>
+            <TextBlock Text="Больницы с которыми заключен договор"></TextBlock>
+            <ListBox x:Name="HospList" SelectionMode="Multiple" ItemsSource="{Binding Hospitals}" DisplayMemberPath="Name" Height="100" />
+            <TextBlock Text="Поликлиники с которыми заключен договор"></TextBlock>
+            <ListBox x:Name="PolycList" SelectionMode="Multiple" ItemsSource="{Binding Polyclinics}" DisplayMemberPath="Name" Height="100" Margin="0, 0, 0, 10"/>
+            <Button Click="Button_Add" Content="Изменить" x:Name="but_add_edit"/>
+        </StackPanel>
+    </Grid>
+</Window>

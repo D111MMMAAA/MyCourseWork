@@ -1,0 +1,79 @@
+﻿<Page x:Class="CourseWork.Pages.Doctors"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:CourseWork.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Doctors" ShowsNavigationUI="False">
+    <Page.Resources>
+        <Style TargetType="TextBlock">
+            <Setter Property="Margin" Value="5"/>
+            <Setter Property="FontSize" Value="11"/>
+        </Style>
+        <Style  TargetType="Button">
+            <Setter Property="Margin" Value="5"/>
+            <Setter Property="Width" Value="100"/>
+            <Setter Property="Height" Value="20"/>
+        </Style>
+    </Page.Resources>
+    <Grid Background="White">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.38*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="35"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <WrapPanel Grid.Row="0">
+                <Button Content="Добавить" HorizontalAlignment="Left" Click="Button_Add"/>
+                <Button Content="Изменить" HorizontalAlignment="Left" Click="Button_Edit"/>
+                <Button Content="Удалить" HorizontalAlignment="left" Click="Button_Del"/>
+            </WrapPanel>
+            <ScrollViewer Grid.Row="1">
+                <DataGrid IsReadOnly="True" HorizontalAlignment="Center" x:Name="myDatagrid" 
+                      Grid.Column="1" GridLinesVisibility="None"
+                      AreRowDetailsFrozen="True" ColumnWidth="*"
+                      CanUserAddRows="False" AutoGenerateColumns="False">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="Имя" Binding="{Binding Path=Name}"/>
+                        <DataGridTextColumn Header="Специальность" Binding="{Binding Path=Position}"/>
+                        <DataGridTextColumn Header="Степень" Binding="{Binding Path=Degree}"/>
+                        <DataGridTextColumn Header="Место работы" Binding="{Binding Path=WorkType}"/>
+                        <DataGridTextColumn Header="Общее число операций" Binding="{Binding Path=OperationsPerformed}"/>
+                        <DataGridTextColumn Header="Операции с летальным исходом" Binding="{Binding Path=FatalOperations}"/>
+                        <DataGridTextColumn Header="Коэфицент к зарплате" Binding="{Binding Path=SalaryCoefficient}"/>
+                        <DataGridTextColumn Header="Отпуск" Binding="{Binding Path=VacationDays}" />
+                    </DataGrid.Columns>
+                </DataGrid>
+            </ScrollViewer>
+        </Grid>
+        <StackPanel Grid.Column="0">
+            <TextBlock Text="Фильтрация" HorizontalAlignment="Center"></TextBlock>
+            
+            <TextBlock Text="Имя"></TextBlock>
+            <TextBox x:Name="NameText" TextChanged="Filter"/>
+            <TextBlock Text="Специальность"></TextBlock>
+            <TextBox x:Name="SpecText" TextChanged="Filter"/>
+            <TextBlock Text="Степень"></TextBlock>
+            <TextBox x:Name="DegreeText" TextChanged="Filter"/>
+            <TextBlock Text="Место работы"></TextBlock>
+            <TextBox x:Name="WorkText" TextChanged="Filter"/>
+            <TextBlock Text="Число операций"></TextBlock>
+            <TextBox x:Name="OperaText" TextChanged="Filter"/>
+            <TextBlock Text="Число операций с летальным исходом"></TextBlock>
+            <TextBox x:Name="OperaDeadText" TextChanged="Filter"/>
+            <TextBlock Text="Коэф к зарплате"></TextBlock>
+            <TextBox x:Name="KofMoneyText" TextChanged="Filter"/>
+            <TextBlock Text="Отпуск"></TextBlock>
+            <TextBox x:Name="ValDayText" TextChanged="Filter"/>
+            <WrapPanel x:Name="RowCountPanel" Visibility="Hidden">
+                <TextBlock Text="Найдено: " Width="56" HorizontalAlignment="Left"></TextBlock>
+                <TextBlock x:Name="CountRowText" Width="56"/>
+            </WrapPanel>
+        </StackPanel>
+    </Grid>
+</Page>

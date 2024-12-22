@@ -1,0 +1,36 @@
+﻿<Window x:Class="CourseWork.AddWin.AddPatient"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CourseWork.AddWin"
+        mc:Ignorable="d"
+        Title="AddPatient" Height="450" Width="400">
+    <Window.Resources>
+        <Style TargetType="TextBlock">
+            <Setter Property="Margin" Value="5"/>
+            <Setter Property="FontSize" Value="11"/>
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+        </Style>
+    </Window.Resources>
+    <Grid Background="WhiteSmoke">
+        <TextBlock Text="Добавление пациента" HorizontalAlignment="Center"/>
+        <StackPanel Grid.Column="0" VerticalAlignment="Center">
+            <TextBlock Text="Имя"></TextBlock>
+            <TextBox x:Name="NameText"/>
+            <TextBlock Text="Мед учереждение"></TextBlock>
+            <ComboBox x:Name="MedIstText" ItemsSource="{Binding MedInst}" DisplayMemberPath="Name"/>
+            <TextBlock Text="Номер палаты"></TextBlock>
+            <TextBox x:Name="PalatText"/>
+            <TextBlock Text="Время поступления"></TextBlock>
+            <DatePicker VerticalAlignment="Center" x:Name="DataText"/>
+            <TextBlock Text="Состояние"></TextBlock>
+            <TextBox x:Name="CondText"/>
+            <TextBlock Text="Температура"></TextBlock>
+            <TextBox x:Name="TempText"/>
+            <TextBlock Text="Лечащий доктор" ></TextBlock>
+            <ComboBox x:Name="DoctText" DisplayMemberPath="Name" Margin="0, 0, 0, 10"/>
+            <Button Click="Button_Add" Content="Изменить" x:Name="but_add_edit"/>
+        </StackPanel>
+    </Grid>
+</Window>
